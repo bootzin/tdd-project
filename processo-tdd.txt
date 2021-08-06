@@ -1,0 +1,5 @@
+Primeiro, escrevemos um teste funcional. Rodamos o teste e vemos que ele quebra.
+Em seguida, escrevemos um teste de unidade. Rodamos o teste e vemos que ele quebra.
+Escrevemos um código mínimo mas que seja suficiente para fazer o teste de unidade passar
+Rodamos o teste funcional e vemos se ele passa. Se ele não passar, repetimos o processo do teste de unidade.
+Se o teste funcional passar, verificamos se a aplicação precisa ser refatorada. Se não, começamos o fluxo do teste funcional novamente. Se sim, começamos o fluxo do teste de unidade novamente.
